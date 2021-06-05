@@ -1,0 +1,15 @@
+/target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+test/
+wasm-pack.log
+LICENSE-APACHE
+LICENSE-MIT
+
+www/.bin
+www/node_modules
+www/LICENSE-APACHE
+www/LICENSE-MIT
+www/README.md
