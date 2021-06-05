@@ -33,6 +33,11 @@ npm run start
 ```
 Development server: **localhost:8000/**
 
+### Template: 
+[wasm-pack-template](https://github.com/rustwasm/wasm-pack-template)
+and
+[wasm-app](https://github.com/rustwasm/create-wasm-app)
+
 
 ### Credit: https://rustwasm.github.io/docs/book/
 
