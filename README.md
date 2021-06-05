@@ -1,7 +1,9 @@
-## About
+<div align="center">
+  <h1><code>Conway's GAME OF LIFE</code></h1>
 
-This project: Conway's GAME OF LIFE
-With: Rust - Wasm - JavaScript
+  <strong>Rust - Wasm - JavaScript.</strong>
+  <sub>Built with 🦀🕸 by <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
+</div>
 
 ## Rules
 
