@@ -31,7 +31,7 @@ Inside www directory (**www/**)
 npm install
 npm run start
 ```
-Development server: **localhost:8000/**
+Development server: **localhost:8080/**
 
 ### Template: 
 [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template)
